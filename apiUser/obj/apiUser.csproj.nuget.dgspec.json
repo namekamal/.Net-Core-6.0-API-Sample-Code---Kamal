@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kamal\\API\\apiUser\\apiUser\\apiUser.csproj": {}
+    "C:\\Users\\Kamal\\Documents\\GitHub\\new\\.Net-Core-6.0-API-Sample-Code---Kamal\\apiUser\\apiUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kamal\\API\\apiUser\\apiUser\\apiUser.csproj": {
+    "C:\\Users\\Kamal\\Documents\\GitHub\\new\\.Net-Core-6.0-API-Sample-Code---Kamal\\apiUser\\apiUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kamal\\API\\apiUser\\apiUser\\apiUser.csproj",
+        "projectUniqueName": "C:\\Users\\Kamal\\Documents\\GitHub\\new\\.Net-Core-6.0-API-Sample-Code---Kamal\\apiUser\\apiUser.csproj",
         "projectName": "apiUser",
-        "projectPath": "C:\\Users\\Kamal\\API\\apiUser\\apiUser\\apiUser.csproj",
+        "projectPath": "C:\\Users\\Kamal\\Documents\\GitHub\\new\\.Net-Core-6.0-API-Sample-Code---Kamal\\apiUser\\apiUser.csproj",
         "packagesPath": "C:\\Users\\Kamal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kamal\\API\\apiUser\\apiUser\\obj\\",
+        "outputPath": "C:\\Users\\Kamal\\Documents\\GitHub\\new\\.Net-Core-6.0-API-Sample-Code---Kamal\\apiUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kamal\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-02-11T17:22:53.3289543Z;True|2022-02-11T22:52:19.9460720+05:30;True|2022-02-11T11:49:51.1731304+05:30;</History>
+  </PropertyGroup>
+</Project>

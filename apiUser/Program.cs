@@ -17,7 +17,7 @@ builder.Services.AddDbContext<UserDBContext>(options =>
 
 builder.Services.AddCors(c =>
 {
-    c.AddPolicy("AllowOrigin", options => options.WithOrigins("http://localhost:3000/", "https://localhost:7143/"));
+    c.AddPolicy("AllowOrigin", options => options.WithOrigins("http://localhost:3000", "https://localhost:7143/"));
 });
 
 var app = builder.Build();

@@ -3,6 +3,6 @@
   <PropertyGroup>
     <Controller_SelectedScaffolderID>MvcControllerWithActionsScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>C:\Users\Kamal\API\apiUser\apiUser\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\Properties\PublishProfiles\IISProfile3.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

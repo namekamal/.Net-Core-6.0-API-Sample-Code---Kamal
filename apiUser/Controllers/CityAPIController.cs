@@ -1,5 +1,6 @@
 ﻿using apiUser.Data;
 using apiUser.Data.Entities;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

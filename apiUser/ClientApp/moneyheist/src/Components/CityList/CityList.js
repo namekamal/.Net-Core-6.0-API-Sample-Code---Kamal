@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './CityList.css';
+import axios from 'axios';
 export class CityList extends Component {
-
 
     constructor() {
         super();
@@ -10,21 +10,32 @@ export class CityList extends Component {
         this.UpdateUser = this.UpdateUser.bind(this);
     }
 
+
     submitUser = () => {
-        const requestOptions = {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
-               Name : this.state.Name,
-               Email:this.state.Email,
-               Phone:this.state.Phone
-            })
+
+
+        const city = {
+            Name: 'qwerty',
+            Phone: 'BBBBBBB',
+            Email: 'qwe'
         };
-        fetch('https://localhost:7143/api/cityapi/post', requestOptions)
-            .then(response => response.json())
-            .then(data => console.log(data));
+
+        //const article = { title: 'React POST Request Example' };
+        axios.post('https://localhost:7143/api/cityapi/post', city)
+            .then(response => this.setState({ Name: response.data.Name }));
     }
 
+    componentDidMount = () => {
+        const xhr = new XMLHttpRequest();
+        xhr.open('get', 'https://localhost:7143/api/cityapi/get', true);
+        xhr.onload = () => {
+            const data = JSON.parse(xhr.responseText);
+            console.log(data);
+            // this.setState({ data: data });
+        };
+        xhr.send();
+
+    }
     UpdateUser(event) {
         switch (event.target.id) {
             case "name":
@@ -46,21 +57,7 @@ export class CityList extends Component {
         }
     }
 
-    // componentDidMount() {
-    //     // Simple POST request with a JSON body using fetch
-    //     const requestOptions = {
-    //         method: 'POST',
-    //         headers: { 'Content-Type': 'application/json' },
-    //         body: JSON.stringify({
-    //            Name : this.state.Name,
-    //            Email:this.state.Email,
-    //            Phone:this.state.Phone
-    //         })
-    //     };
-    //     fetch('https://localhost:7143/api/cityapi/post', requestOptions)
-    //         .then(response => response.json())
-    //         .then(data => console.log(data));
-    // }
+
 
 
     render() {
@@ -82,8 +79,8 @@ export class CityList extends Component {
                                 <input type="text" id="phone" onKeyUp={this.UpdateUser} />
                             </div>
                             <div className="col-sm">
-                                <button type="submit" className="btn btn-danger" onClick={this.submitUser}>
-                                    Add
+                                <button type="button" className="btn btn-danger" onClick={this.submitUser}>
+                                    Post
                                 </button>
                             </div>
                         </div>

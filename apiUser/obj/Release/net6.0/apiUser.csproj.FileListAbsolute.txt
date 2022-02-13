@@ -58,6 +58,8 @@ C:\Users\Kamal\API\apiUser\apiUser\obj\Release\net6.0\apiUser.pdb
 C:\Users\Kamal\API\apiUser\apiUser\obj\Release\net6.0\apiUser.genruntimeconfig.cache
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\appsettings.Development.json
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\appsettings.json
+C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\ClientApp\moneyheist\build\asset-manifest.json
+C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\ClientApp\moneyheist\build\manifest.json
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\ClientApp\moneyheist\package-lock.json
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\ClientApp\moneyheist\package.json
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\ClientApp\moneyheist\public\manifest.json
@@ -102,6 +104,7 @@ C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUse
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.csproj.AssemblyReference.cache
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.AssemblyInfoInputs.cache
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.AssemblyInfo.cs
@@ -116,4 +119,3 @@ C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUse
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\ref\apiUser.dll
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.pdb
 C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.genruntimeconfig.cache
-C:\Users\Kamal\Documents\GitHub\new\.Net-Core-6.0-API-Sample-Code---Kamal\apiUser\obj\Release\net6.0\apiUser.csproj.AssemblyReference.cache
